@@ -23,9 +23,9 @@ Note: The person in this challenge is unreal, he is not the author.
 > Sau khi bị leak thì password được thêm sinh nhật vào cuối.
 > Sau khi thêm sinh nhật vào thì pass có 24 ký tự.
 
-- Sinh nhật được tìm thấy có 8 ký tự => mình phải tìm pass có 16 ký tự.
+- Sinh nhật được tìm thấy có 8 ký tự => mình phải tìm pass có 16 ký tự.                                                                          
 ![](6.png)
-- Tìm kiếm "jeanphorn" trên Github cho mình kết quả và anh ta cũng có các list password:
+- Tìm kiếm "jeanphorn" trên Github cho mình kết quả và anh ta cũng có các list password:                                                           
 ![](7.png)
 - Ban đầu mình đã thử lọc hết password 16 ký tự ra từ các list nhưng nó khá nhiều và không khả thi.
 - Chắc chắn có cách khác để tìm pass và cũng mất khá lâu mình mới nghĩ ra thử tìm pass theo tên trên Twitter và Github.
