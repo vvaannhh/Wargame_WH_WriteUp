@@ -15,9 +15,9 @@
  | [Crypto06](/Wu_file/Crypto06/README.md) | Crypto |
  | [Crypto07](/Wu_file/Crypto07/README.md) | Crypto |
  | [Misc02](/Wu_file/Misc02/README.md) | Misc |
- | [Misc03](/Wu_file/Misc02/README.md) | Misc |
- | [Misc04](/Wu_file/Misc02/README.md) | Misc |
- | [Misc05](/Wu_file/Misc02/README.md) | Misc |
- | [Misc06](/Wu_file/Misc02/README.md) | Misc |
- | [Misc10](/Wu_file/Misc02/README.md) | Misc |
- | [Misc11](/Wu_file/Misc02/README.md) | Misc |
+ | [Misc03](/Wu_file/Misc03/README.md) | Misc |
+ | [Misc04](/Wu_file/Misc04/README.md) | Misc |
+ | [Misc05](/Wu_file/Misc05/README.md) | Misc |
+ | [Misc06](/Wu_file/Misc06/README.md) | Misc |
+ | [Misc10](/Wu_file/Misc10/README.md) | Misc |
+ | [Misc11](/Wu_file/Misc11/README.md) | Misc |
