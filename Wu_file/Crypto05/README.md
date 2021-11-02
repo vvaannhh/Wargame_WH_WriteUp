@@ -37,7 +37,7 @@
 [->-- --<]> --.<+ ++[-> +++<] >++.. .<
 ```
 - Để biết được đây là loại mã hóa nào mình sử dụng [tool](https://www.dcode.fr/cipher-identifier) trên trang Dcode.
-> => Brainfuck
+> => Brainfuck                                                                                          
 ![](1.png)
 - Decode Brainfuck => base 32:
 ```
