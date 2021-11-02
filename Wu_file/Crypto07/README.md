@@ -29,4 +29,4 @@ Tách ra:
 66 => n
 Vậy 7777066 =>S0N
 ```
-- Lowcase flag: always b3 the s0n of thai binh.
+- Lowcase flag: always b3 the s0n of thai binh
