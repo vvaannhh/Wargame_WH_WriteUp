@@ -3,5 +3,5 @@
 ### Challenge
 | Title | Category | 
  | ------ | ------  | 
- | [Baby Osint](#baby-osint) | Osint |  
+ | [Baby Osint](#baby-osint-100pts) | Osint |  
  
