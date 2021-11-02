@@ -13,7 +13,7 @@
  - Tìm kiếm noobhacker:
  ![](4.png)
  - Thử link pastebin => mình đã bị lừa
- - Nhìn chỗ ghi thông tin số điện thoại mình đoán là flag được chuyển sang hệ cơ số 10
+ - Nhìn chỗ ghi thông tin số điện thoại mình đoán là flag được chuyển sang hệ cơ số 8
 > 127 150 151 164 145 110 141 164 173 131 060 165 137 100 162 105 137 064 137 166 061 160 120 162 060 150 064 143 113 063 162 175
 
 - Chuyển về Ascii ta sẽ nhận được flag.
