@@ -9,4 +9,4 @@
 - Đi đến file Encrypted.txt thì thấy phần header là signature của file png => Encrypted.txt là 1 bức ảnh.
 - Tải file về, ném hex data sang HxD và lưu dưới dạng png flag xuất hiện.
 ![](3.png)
-- Flag: Whitehat{How_did_u0u_find_U5?}.
+- Flag: Whitehat{How_did_y0u_find_U5?}.
