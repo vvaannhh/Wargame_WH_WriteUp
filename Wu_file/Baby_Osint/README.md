@@ -8,11 +8,11 @@ Let's find the golden duck with jerry in discord lake.
 > Let's find the golden duck with jerry in discord lake.
 
 - Đơn giản là vào kênh discord của BTC và tìm "golden duck" thui.
-- Không biết BTC cố tình hay không nhưng khá nhiều bạn sẽ bị con vịt này lừa:                 
+- Mình đã bị con vịt này lừa:                 
 ![](img/2.png)
-- Nhưng đây mới là Quacker thực sự:
-![](img/3.png)
+- Nhưng đây mới là Quacker thực sự:                                                                                     
+![](img/3.png)                                                                                                                          
 ![](img/1.png)
-- Xem hồ sơ người dùng có một link github. Giờ chỉ việc đến đó và lấy flag thoi.
+- Xem hồ sơ người dùng có một link github. Giờ chỉ việc đến đó và lấy flag thoi.                                                                               
 ![](img/4.png)
 - Flag: WhiteHat{L1ttl3_Qu@ck3r}
