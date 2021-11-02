@@ -52,4 +52,4 @@ SnV2Z3JVbmd7cDcwNnA5NzIyMG5yOHEwcHA0cTA5bnM3MzVxcTlvMm9uNnIwOTA4MX0=
 JuvgrUng{p706p97220nr8q0pp4q09ns735qq9o2on6r09081}
 ```
 - Mình decode bằng trên trang [kt.gy](https://kt.gy/tools.html) nên kéo xuống rot13 là thấy flag.
-Flag: WhiteHat{c706c97220ae8d0cc4d09af735dd9b2ba6e09081} 
+- Flag: WhiteHat{c706c97220ae8d0cc4d09af735dd9b2ba6e09081} 
