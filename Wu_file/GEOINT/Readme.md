@@ -10,7 +10,7 @@ Note: The flag format is WhiteHat{sha1(latitude1,longitude1_latitude2,longitude2
 - Với bức ảnh này mình sẽ sử dụng công cụ tìm kiếm hình ảnh của Yandex.
 - Quan trọng là mình sẽ phải cắt đúng góc cần thiết để tìm kiếm dễ dàng và chính xác nhất.
 - Nếu tìm full cả bức ảnh thì khả năng nhận được kết quả như ý là không cao.
-- Ở đây mình chỉ tìm góc bên trái vì nó có chi tiết có thể là nổi tiếng và kết quả mình nhận được: 
+- Ở đây mình chỉ tìm góc bên trái và kết quả mình nhận được: 
 ```
  Kansas City Public Library
 ```
