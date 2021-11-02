@@ -1,6 +1,7 @@
 # Misc10 - 150pts
 ### Challenge
 >My server is having problems, please analyze the Log file and help me find the it.
+
 [File log](misc10.log)
 ### Solution
 - Ở bài này mình sẽ tìm những request hợp lệ(giá trị trả về là 200).
