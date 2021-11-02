@@ -3,5 +3,5 @@
 ### Challenge
 | Title | Category | 
  | ------ | ------  | 
- | [Baby Osint](#baby-osint-100pts) | Osint |  
+ | [Baby Osint](/Wu_file/Baby_Osint/README.md) | Osint |  
  
