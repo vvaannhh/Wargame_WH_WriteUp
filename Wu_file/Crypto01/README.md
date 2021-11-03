@@ -52,13 +52,13 @@ SimplE struCturE usAGE
 8rEquEnCy oF thE lEttEr pAttErn proviDEs A BiG CluE in DECiphErinG thE EntirE mEssAGE
 Coppylink intErnEt
 ```
-- Flag ngay trước mắt nhưng sub thì toàn sai.
+- Flag ngay trước mắt nhưng nó không đơn giản như vậy.
 > 8lAG hErE, 7ASy 5A7s3r
 
 - Mình đã bỏ bài này một thòi gian khá lâu cho đến khi tìm ra được key.
--  Ban đầu mình đã nghĩ về quy luật viết hoa và cũng đã chuyển hết số về dạng chữ vì mình cũng thấy nó có vẻ đúng với quy luật mã hóa nhưng đều sai bởi chữ và số đang sử dụng 2 key khác nhau.
+- Ban đầu mình đã nghĩ về quy luật viết hoa và cũng đã chuyển hết số về dạng chữ vì mình cũng thấy nó có vẻ đúng với quy luật mã hóa nhưng đều sai bởi chữ và số đang sử dụng 2 key khác nhau.
 - Sau đó mình tiến đến hướng đi tìm key cho cả đoạn cipher text.
-- Sau khi liệt kê hết các số, chữ cái và đánh số chúng bắt đầu từ 0.
+- Sau khi liệt kê hết các số, chữ cái, đánh số chúng bắt đầu từ 0.
 > 0-9 A-Z a-z và đánh stt từng ký tự
 - Và dựa vào đoạn plan text phía trên thì mình đã thử cộng 7 vào thứ tự các ký tự ở cipher text và kết quả:
 > 7TLr 5T7l3k => EaSy CaEsAr
